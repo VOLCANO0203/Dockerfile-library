@@ -1,0 +1,2 @@
+FROM gcr.io/knative-samples/helloworld-go:latest
+MAINTAINER zz<zhongzheng0813@163.com>
