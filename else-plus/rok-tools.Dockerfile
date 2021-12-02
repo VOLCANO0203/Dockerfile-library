@@ -1,0 +1,1 @@
+FROM gcr.io/arrikto/rok-tools:release-1.4-l0-release-1.4-rc5
