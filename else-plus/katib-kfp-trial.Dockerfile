@@ -1,0 +1,1 @@
+FROM gcr.io/arrikto/katib-kfp-trial:a7f7bb79-d9bf99ac
