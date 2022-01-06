@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/sklearnserver:v0.6.1
+FROM gcr.io/kfserving/sklearnserver:v0.4.1
