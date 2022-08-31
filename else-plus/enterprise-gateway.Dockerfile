@@ -1,0 +1,1 @@
+FROM ghcr.io/skai-x/enterprise-gateway:2.5.2
